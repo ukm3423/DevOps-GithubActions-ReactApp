@@ -94,7 +94,7 @@ function HomePage() {
       <div className="container max-w-10xl mx-auto px-6 mt-3 sm:px-6 mb-10 lg:px-8">
         <div className="text-center mt-2">
           <h2 className="text-2xl font-bold mb-0 uppercase relative inline-block overflow-hidden pb-1">
-            Our <span className="text-yellow-500 relative">OUR TRENDING COURSES
+            Our <span className="text-yellow-500 relative"> OUR TRENDING COURSES
               <span className="absolute bottom-0 left-0 w-full bg-yellow-500 h-0.5" aria-hidden="true"></span>
             </span>
           </h2>
