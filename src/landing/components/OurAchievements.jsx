@@ -13,12 +13,11 @@ export default function OurAchievements() {
         backgroundImage: `url(${backgroundImage})`, 
         backgroundSize: 'cover', 
         backgroundPosition: 'center' ,
-        backgroundAttachment: 'fixed' 
-        
+        backgroundAttachment: 'fixed'         
       }}
     >
       <div className="w-full px-4 md:py-20 py-6 bg-black bg-opacity-50">  {/* Dark overlay */}
-        <h2 className="text-3xl font-bold text-center text-white mb-6">Our Achievements</h2>
+        <h2 className="text-3xl font-bold text-center text-white mb-6"> Our Achievements</h2>
         <div className="flex flex-wrap justify-center items-center text-center">
           <div className="p-4 bg-gray-100 rounded-lg shadow m-2 flex-1">
             <FaAward className="text-4xl text-yellow-400 mx-auto mb-4" />

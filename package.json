@@ -1,7 +1,7 @@
 {
   "name": "quickreactapp",
   "private": true,
-  "homepage": "https://ukm3423.github.io/DevOps-CICD-ReactApp/",
+  "homepage": "https://ukm3423.github.io/DevOps-GithubActions-ReactApp/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
