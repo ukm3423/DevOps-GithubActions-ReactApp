@@ -1,14 +1,8 @@
-// vite.config.js
-import { defineConfig } from 'vite';
-import reactRefresh from '@vitejs/plugin-react-refresh';
-import tailwindcss from 'tailwindcss';
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
 
+// https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [
-    reactRefresh(),
-    tailwindcss('./tailwind.config.js'),
-  ],
-  build: {
-    outDir: 'dist', // Ensure this matches the path in your GitHub Actions workflow
-  },
-});
+   plugins: [react()],
+  base: '/vite-deploy-demo/'
+})
