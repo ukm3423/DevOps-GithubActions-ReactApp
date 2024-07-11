@@ -14,7 +14,7 @@ function TopBar() {
         {/* Email link */}
         <a href="mailto:quickcomputer@gmail.com" className="flex items-center space-x-1 hover:text-gray-300">
           <FontAwesomeIcon icon={faEnvelope} />
-          <span>learnify@gmail.com</span>
+          <span> learnify@gmail.com</span>
         </a>
       </div>
     </div>
