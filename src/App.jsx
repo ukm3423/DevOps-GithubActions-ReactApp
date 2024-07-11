@@ -32,7 +32,7 @@ function App() {
                             <Route path="/login/student" element={<StudentLogin />} />
                             <Route path="/login/franchise" element={<FranchiseLogin />} />
 
-                            <Route path="/" element={<HomePage />} />
+                            <Route path="/DevOps-GithubActions-ReactApp" element={<HomePage />} />
                             <Route path="/about" element={<About />} />
                             <Route path="/faculty" element={<Faculty />} />
                             <Route path="/contact" element={<ContactUs />} />
