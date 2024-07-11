@@ -15,7 +15,6 @@ function TopBar() {
         <a href="mailto:quickcomputer@gmail.com" className="flex items-center space-x-1 hover:text-gray-300">
           <FontAwesomeIcon icon={faEnvelope} />
           <span>learnify@gmail.com</span>
-          {/* Additional links */}
         </a>
       </div>
     </div>
