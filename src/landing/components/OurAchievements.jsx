@@ -14,6 +14,7 @@ export default function OurAchievements() {
         backgroundSize: 'cover', 
         backgroundPosition: 'center' ,
         backgroundAttachment: 'fixed' 
+        
       }}
     >
       <div className="w-full px-4 md:py-20 py-6 bg-black bg-opacity-50">  {/* Dark overlay */}
